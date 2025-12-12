@@ -1,0 +1,8 @@
+{
+  "name": "SocialPulse",
+  "description": "A polished social media application featuring dynamic feeds, versatile post creation with attachments, and comprehensive user profiles.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
